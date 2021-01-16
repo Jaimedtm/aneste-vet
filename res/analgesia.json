@@ -1,0 +1,66 @@
+{
+  "Meloxicam": [
+    {
+      "dosis minima perro": "0.1",
+      "dosis maxima perro": "0.2",
+      "dosis minima gato": "0.3",
+      "dosis maxima gato": "0.3",
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "5mg/ml"
+        }
+      ]
+    }
+  ],
+  "Carprofeno": [
+    {
+      "dosis minima perro": "1",
+      "dosis maxima perro": "4",
+      "dosis minima gato": "1",
+      "dosis maxima gato": "4",
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "50mg/ml"
+        }
+      ]
+    }
+  ],
+  "Lidocaína": [
+    {
+      "dosis minima perro": "1.5",
+      "dosis maxima perro": "2",
+      "dosis minima gato": "0.25",
+      "dosis maxima gato": "0.5",
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "5mg/ml"
+        }
+      ]
+    }
+  ],
+  "Tramadol": [
+    {
+      "dosis minima perro": "2",
+      "dosis maxima perro": "5",
+      "dosis minima gato": "1",
+      "dosis maxima gato": "2",
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "50mg/ml"
+        },
+        {
+          "nombre": "Concentración común 2",
+          "concentracion": "20mg/ml"
+        },
+        {
+          "nombre": "Concentración común 3",
+          "concentracion": "100mg/2ml"
+        }
+      ]
+    }
+  ]
+}

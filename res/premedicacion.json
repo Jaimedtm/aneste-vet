@@ -1,0 +1,62 @@
+{
+  "Acepromacina": [
+    {
+      "dosis minima": "0.005",
+      "dosis maxima": "0.04",
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "50mg/100ml"
+        }
+      ]
+    }
+  ],
+  "Dexmedetomidina": [
+    {
+      "dosis minima": "0.0005",
+      "dosis maxima": "0.02",
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "0.5mg/ml"
+        }
+      ]
+    }
+  ],
+  "Medetomidina": [
+    {
+      "dosis minima": "0.002",
+      "dosis maxima": "0.04",
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "0.5 mg/ml"
+        },
+        {
+          "nombre": "Concentración común 2",
+          "concentracion": "1mg/ml"
+        }
+      ]
+    }
+  ],
+  "Xilacina": [
+    {
+      "dosis minima": "0.2",
+      "dosis maxima": "1",
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "20mg/ml"
+        },
+        {
+          "nombre": "Concentración común 2",
+          "concentracion": "2000mg/100ml"
+        },
+        {
+          "nombre": "Concentración común 3",
+          "concentracion": "20mg/ml"
+        }
+      ]
+    }
+  ]
+}

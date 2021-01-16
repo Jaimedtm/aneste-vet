@@ -1,0 +1,122 @@
+{
+  "Propofol": [
+    {
+      "sin premedicación": [
+        {
+          "dosis minima perro": "4",
+          "dosis maxima perro": "8",
+          "dosis minima gato": "2",
+          "dosis maxima gato": "8"
+        }
+      ],
+      "con premedicación": [
+        {
+          "dosis minima perro": "2",
+          "dosis maxima perro": "3",
+          "dosis minima gato": "5",
+          "dosis maxima gato": "6"
+        }
+      ],
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "10mg/ml"
+        },
+        {
+          "nombre": "Concentración común 2",
+          "concentracion": "200mg/20ml"
+        }
+      ]
+    }
+  ],
+  "Etomidato": [
+    {
+      "sin premedicación": [
+        {
+          "dosis minima perro": "1",
+          "dosis maxima perro": "3",
+          "dosis minima gato": "1",
+          "dosis maxima gato": "3"
+        }
+      ],
+      "con premedicación": [
+        {
+          "dosis minima perro": "1",
+          "dosis maxima perro": "3",
+          "dosis minima gato": "1",
+          "dosis maxima gato": "3"
+        }
+      ],
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "2mg/ml"
+        }
+      ]
+    }
+  ],
+  "Tiletamina y zolacepam": [
+    {
+      "sin premedicación": [
+        {
+          "dosis minima perro": "6",
+          "dosis maxima perro": "15",
+          "dosis minima gato": "6",
+          "dosis maxima gato": "15"
+        }
+      ],
+      "con premedicación": [
+        {
+          "dosis minima perro": "6",
+          "dosis maxima perro": "15",
+          "dosis minima gato": "6",
+          "dosis maxima gato": "15"
+        }
+      ],
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "100mg/ml"
+        },
+        {
+          "nombre": "Concentración común 2",
+          "concentracion": "50mg/ml"
+        }
+      ]
+    }
+  ],
+  "Ketamina": [
+    {
+      "sin premedicación": [
+        {
+          "dosis minima perro": "2",
+          "dosis maxima perro": "5",
+          "dosis minima gato": "2",
+          "dosis maxima gato": "5"
+        }
+      ],
+      "con premedicación": [
+        {
+          "dosis minima perro": "2",
+          "dosis maxima perro": "5",
+          "dosis minima gato": "2",
+          "dosis maxima gato": "5"
+        }
+      ],
+      "producto comercial": [
+        {
+          "nombre": "Concentración común 1",
+          "concentracion": "1000mg/10ml"
+        },
+        {
+          "nombre": "Concentración común 2",
+          "concentracion": "50mg/ml"
+        },
+        {
+          "nombre": "Concentración común 3",
+          "concentracion": "100mg/ml"
+        }
+      ]
+    }
+  ]
+}
