@@ -1,4 +1,5 @@
 # Aneste-Vet
+![Aneste-vet](https://github.com/Jaimedtm/aneste-vet/blob/main/res/vetCalc.png?raw=true)
 
 App de uso veterinario para el cálculo de dosis anestésicas y fluido terapia (solo para perros y gatos).
 
