@@ -5,6 +5,8 @@ App de uso veterinario para el cálculo de dosis anestésicas y fluido terapia (
 
 ## Instrucciones de uso
 
+La PWA solo esta disponible en dispositivos móviles, a continuación se encuentra el [enlace a la PWA]( https://aneste-vet.web.app).
+
 Este repositorio solo es para la consulta del código fuente, el cual esta creado en Dart, si se desea recompilar es necesario tener Flutter en el canal beta y ejecutar el siguiente comando en la carpeta de raíz del proyecto “flutter build web”, eso creara la siguiente dirección en la carpeta de raíz: “./build/web/” en la cual se encuentra el proyecto listo para subir a un servidor.
 
 # Información:
